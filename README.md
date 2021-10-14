@@ -20,6 +20,13 @@ Hi! We're [Dan](https://twitter.com/danpastori) and [Jay](https://twitter.com/ja
 # About this project
 This project contains all of the example components to upload files with VueJS and Axios.
 
+All of the tutorials live on Server Side Up in the course [Your Guide To Uploading Files with VueJS and Axios](https://serversideup.net/courses/guide-uploading-files-vuejs-axios/):
+
+1. [Uploading Files With VueJS and Axios](https://serversideup.net/uploading-files-vuejs-axios/)
+2. [File Upload Progress Indicator with Axios and VueJS](https://serversideup.net/file-upload-progress-indicator-with-axios-and-vuejs/)
+3. [Drag and Drop File Uploads with VueJS and Axios](https://serversideup.net/drag-and-drop-file-uploads-with-vuejs-and-axios/)
+4. [Preview File Uploads with Axios and VueJS](https://serversideup.net/preview-file-uploads-with-axios-and-vuejs/)
+
 ## Project setup
 ```
 npm install
